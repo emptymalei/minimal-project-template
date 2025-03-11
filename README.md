@@ -1,1 +1,1 @@
-# data-project-template
+# A minimal project tempalte
